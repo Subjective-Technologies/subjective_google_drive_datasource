@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Google Drive intended to ingest cloud documents/files into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Google Drive",
-      "text": "A Subjective data source for Google Drive. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Google Drive intended to ingest cloud documents/files into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_google_drive_datasource/icon.svg",
         "alt": "Google Drive icon"
